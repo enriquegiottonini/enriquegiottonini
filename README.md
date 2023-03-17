@@ -1,4 +1,4 @@
-<ul align="left">
+<ul align="left" style="list-type-style: none">
   <li>[Computer Science student]</li>
   <li>[math enthusiast]</li>
   <li>[strawberries & cream lover]</li>
