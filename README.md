@@ -1,4 +1,11 @@
-<ul align="left" style="list-type-style: none">
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  align: left;
+}
+
+<ul>
   <li>[Computer Science student]</li>
   <li>[math enthusiast]</li>
   <li>[strawberries & cream lover]</li>
