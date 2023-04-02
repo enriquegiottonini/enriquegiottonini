@@ -2,7 +2,6 @@
 <ul>
   <li>Computer Science student</li>
   <li>math enthusiast</li>
-  <li>strawberries & cream lover</li>
 </ul>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegiottonini&label=hi&color=26a269&style=square" alt="enriquegiottonini" /> </p>
